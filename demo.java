@@ -15,6 +15,7 @@ public class demo
         int ans1= a*a*a;
         int ans2=l*b*h;
         System.out.println("Volume of different shapes:");
+        System.out.println("===========================");
         System.out.println("Volume of Cube= "+ans1);
         System.out.println("Volume of Cuboid= "+ans2);
     }
